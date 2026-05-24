@@ -4,16 +4,35 @@ Logos, colors, and type for [Kwak](https://kwak.io). If you're writing about us,
 
 ## Logos
 
-| File | Use |
-| --- | --- |
-| [`logos/kwak-logo.svg`](logos/kwak-logo.svg) | Primary logo. Use on the web, in product, in headers. |
-| [`logos/kwak-mark-square.svg`](logos/kwak-mark-square.svg) | Square mark. Use for social avatars, app icons, favicons, and anywhere a square or circular crop is required. |
+Primary logo. Use on the web, in product, in headers, in docs.
 
 <p>
   <img src="logos/kwak-logo.svg" alt="Kwak logo" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+| File | Use |
+| --- | --- |
+| [`kwak-logo.svg`](logos/kwak-logo.svg) | Vector. Preferred for web and print. |
+| [`kwak-logo-2048.png`](logos/kwak-logo-2048.png) | 2048w PNG. Slide decks, large hero exports. |
+| [`kwak-logo-1024.png`](logos/kwak-logo-1024.png) | 1024w PNG. General-purpose raster. |
+| [`kwak-logo-512.png`](logos/kwak-logo-512.png) | 512w PNG. |
+| [`kwak-logo-256.png`](logos/kwak-logo-256.png) | 256w PNG. Small UI uses. |
+
+Square mark. Use for social avatars, app icons, favicons, and anywhere a square or circular crop is required.
+
+<p>
   <img src="logos/kwak-mark-square.svg" alt="Kwak square mark" height="120" />
 </p>
+
+| File | Use |
+| --- | --- |
+| [`kwak-mark-square.svg`](logos/kwak-mark-square.svg) | Vector. Preferred. |
+| [`kwak-mark-square-1024.png`](logos/kwak-mark-square-1024.png) | 1024×1024. Social avatars (X, GitHub, LinkedIn). |
+| [`kwak-mark-square-512.png`](logos/kwak-mark-square-512.png) | 512×512. App icons, OG images. |
+| [`kwak-mark-square-256.png`](logos/kwak-mark-square-256.png) | 256×256. |
+| [`kwak-mark-square-128.png`](logos/kwak-mark-square-128.png) | 128×128. |
+| [`kwak-mark-square-64.png`](logos/kwak-mark-square-64.png) | 64×64. Favicons. |
+| [`kwak-mark-square-32.png`](logos/kwak-mark-square-32.png) | 32×32. Browser tab favicon. |
 
 ### Usage
 
